@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning javascript and DSA
 - 💞️ I’m looking to collaborate on building website project
 - 📫 How to reach me linkedin   https://www.linkedin.com/in/varun-saini-162181173/
-                      
-                      
                       instagram  https://www.instagram.com/varunsaini_2112/
 
 <!---
